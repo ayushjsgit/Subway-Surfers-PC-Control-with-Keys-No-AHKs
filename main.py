@@ -42,6 +42,8 @@ def simulate_mouse_drag():
 # Main function
 def main():
     print("Press 'Q' to quit.")
+
+#Arrow keys - move and space - click and activate hoverboard    
     simulate_mouse_drag()
 
 # Execute main function
